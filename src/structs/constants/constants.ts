@@ -7,7 +7,7 @@ const ruCaptchaIn = 'https://rucaptcha.com/in.php'
 const ruCaptchaRes =  'https://rucaptcha.com/res.php'
 
 // TODO: add the ability to specify softid in the constructor of the `Captcha` class
-const softId: number = 4587
+const softId: number = 4691
 
 const supportedProviders = {
   twoCaptcha: {
